@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e56607246effceb1",
+    "id": "eb545f2223ecb0db",
     "type": "split",
     "children": [
       {
-        "id": "9026bbd3008b848f",
+        "id": "97ca1c2d80aa4fcf",
         "type": "tabs",
         "children": [
           {
-            "id": "f42bbd8113653956",
+            "id": "f8381d23c052a383",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4bc64c0fb323bbb0",
+    "id": "15f11f5a3654d7ff",
     "type": "split",
     "children": [
       {
-        "id": "7c045f2c47f47639",
+        "id": "efbf7499958f78c2",
         "type": "tabs",
         "children": [
           {
-            "id": "5c2589e42ab70fd2",
+            "id": "c5dbe5a577338392",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "f6da8ce600d3ba0c",
+            "id": "5861296ff4752279",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#streaming-data-platform",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "e1beca8bd817a0fb",
+            "id": "4b6659cc12ae3f19",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "71f9ae5d1ca38a70",
+    "id": "f5a6b3f1b20bffd6",
     "type": "split",
     "children": [
       {
-        "id": "e5c51e2ce9a1cbff",
+        "id": "3e9c88954449cc24",
         "type": "tabs",
         "children": [
           {
-            "id": "2bc5aad7760ed879",
+            "id": "63a28004343daa51",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extra/Training Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,30 +98,29 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Training Ideas"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "640f8f0ce1d87c84",
+            "id": "d2897c0cc0a4d9df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extra/Training Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Training Ideas"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b484eaafb1e29b71",
+            "id": "4ec63539693aa0e9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -130,33 +128,21 @@
             }
           },
           {
-            "id": "a6ae7cd941953c8b",
+            "id": "0f8238e1644a6519",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "extra/Training Ideas.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Training Ideas"
-            }
-          },
-          {
-            "id": "b08179ab5560d14d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,38 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f42bbd8113653956",
-  "lastOpenFiles": [
-    "extra/Training Ideas.md",
-    "Azure Storage Table.md",
-    "strategies/Deploy and Manage Distributed Resources.md",
-    "strategies/Share Code.md",
-    "strategies/Data Visualize and Analyze.md",
-    "strategies/Data Storage.md",
-    "strategies/Data Collect and Transform.md",
-    "strategies/Data Batch Processing.md",
-    "strategies/Automate Testing.md",
-    "strategies/Automate Deploying Solutions.md",
-    "strategies/Analyze Logs.md",
-    "strategies/Host a Solution.md",
-    "strategies/Scale Compute.md",
-    "strategies/Secure an Application.md",
-    "strategies/Data Real Time.md",
-    "strategies/Data Automation.md",
-    "strategies/Data Send and Receive.md",
-    "strategies/Fast Edge of Network.md",
-    "strategies/eXtended Reality (XR).md",
-    "strategies/Create a Web Site.md",
-    "strategies/Create a Web Application.md",
-    "strategies/Create a Web API.md",
-    "strategies/Create a Mobile Application.md",
-    "strategies/Create a Desktop Application.md",
-    "inbox/2024-05-12.md",
-    "Event Driven.md",
-    "zz_attachments",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Pasted image 20230113211720.png",
-    "strategies"
-  ]
+  "active": "f8381d23c052a383",
+  "lastOpenFiles": []
 }
